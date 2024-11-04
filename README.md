@@ -1,7 +1,7 @@
 # <center> EA-multi-head-GCN
 Implementation of paper: Building Pattern Recognition by Using an Edge-attention Multi-head Graph Convolutional Network
 
-Github: [eamhgcn](https://github.com/whtower/eamhgcn)
+Github: [eamhgcn](https://github.com/whtower/eamhgcn) Figshare: [eamhgcn](https://doi.org/10.6084/m9.figshare.27602619)
 
 ## Setup
 ```bash
