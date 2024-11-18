@@ -58,7 +58,7 @@ pip install pyshp matplotlib scipy
 If you find this repository useful in your research, please cite our paper:
 ```bibtex
 @article{doi:10.1080/13658816.2024.2427853,
-author = {Haitao Wang, Yongyang Xu, Anna Hu, Xuejing Xie, Siqiong Chen and Zhong Xie},
+author = {Wang, Haitao and Xu, Yongyang and Hu, Anna and Xie, Xuejing and Chen, Siqiong and Xie, Zhong},
 title = {Building pattern recognition by using an edge-attention multi-head graph convolutional network},
 journal = {International Journal of Geographical Information Science},
 volume = {0},
