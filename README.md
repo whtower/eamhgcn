@@ -1,7 +1,7 @@
-# <center> EA-multi-head-GCN
+# <div align="center">EA-Multi-Head-GCN</div>
 Implementation of paper: Building Pattern Recognition by Using an Edge-attention Multi-head Graph Convolutional Network
 
-Github: [eamhgcn](https://github.com/whtower/eamhgcn) Figshare: [eamhgcn](https://doi.org/10.6084/m9.figshare.27602619)
+[Github](https://github.com/whtower/eamhgcn) • [Figshare](https://doi.org/10.6084/m9.figshare.27602619) • [Paper](https://doi.org/10.1080/13658816.2024.2427853)
 
 ## Setup
 ```bash
@@ -56,6 +56,16 @@ pip install pyshp matplotlib scipy
 
 ## Citation
 If you find this repository useful in your research, please cite our paper:
+```bibtex
+@article{doi:10.1080/13658816.2024.2427853,
+author = {Haitao Wang, Yongyang Xu, Anna Hu, Xuejing Xie, Siqiong Chen and Zhong Xie},
+title = {Building pattern recognition by using an edge-attention multi-head graph convolutional network},
+journal = {International Journal of Geographical Information Science},
+volume = {0},
+number = {0},
+pages = {1--26},
+year = {2024},
+publisher = {Taylor \& Francis},
+doi = {10.1080/13658816.2024.2427853}}
 ```
-
-```
+<div align="center">✨ Happy research! ✨</div>
